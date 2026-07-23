@@ -1,0 +1,12 @@
+{
+  "name": "New-skill",
+  "owner": {
+    "name": "ajit-boom"
+  },
+  "plugins": [
+    {
+      "name": "sccs-skills",
+      "source": "./plugins/sccs-skills"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "sccs-skills",
+  "version": "1.0.0",
+  "description": "SCCS modeling skills.",
+  "author": {
+    "name": "ajit-boom"
+  },
+  "skills": "./skills/"
+}
